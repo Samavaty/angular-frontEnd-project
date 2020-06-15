@@ -1,3 +1,8 @@
-p {
-  font-family: Lato;
+@font-face{
+  font-family: FoodWebApp;
+  src: url(https://fonts.cooltext.com/Downloader.aspx?ID=11211);
+}
+#mainTitle{
+  margin: 0;
+  font-family: FoodWebApp;
 }
